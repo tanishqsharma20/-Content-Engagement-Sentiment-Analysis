@@ -1,6 +1,3 @@
-
-# domain_and_end_goal.md
-```markdown
 # Domain and End Goal — Content Engagement & Sentiment Analysis
 
 ## Filename suggestion
@@ -64,5 +61,4 @@ git commit -m "chore: initial Power BI project structure and documentation"
 # add remote & push (replace <REMOTE_URL> with your repo URL)
 git remote add origin <REMOTE_URL>
 git push -u origin feature/powerbi-content-engagement
-
-..
+```
